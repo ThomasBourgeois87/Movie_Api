@@ -22,7 +22,8 @@
     "@hapipal/schwifty": "^6.1.0",
     "@thomas_bourgeois/iut-encrypt": "^1.0.0",
     "joi": "17.x.x",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.3"
   },
   "devDependencies": {
     "@hapi/code": "8.x.x",
